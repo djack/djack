@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can learn more about me at https://dangerlibrary.com
+
 <!--
 **djack/djack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
